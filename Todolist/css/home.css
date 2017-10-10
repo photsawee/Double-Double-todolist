@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image:url(file:///C|/Users/Sorawich/Desktop/todolistproject/image/bg/to_do-5681721a3df78ccc15b270f1.jpg);
+	background-size:100%;
+	background-attachment:fixed;
+}
+h1{
+	color:#FFF;
+	font:Tahoma, Geneva, sans-serif;
+	font-size:36px;
+}
+#div {
+	color:#CCC;
+}
+button{
+	background-color:#FFF;
+	font-size:18px;
+	color:#000;
+}

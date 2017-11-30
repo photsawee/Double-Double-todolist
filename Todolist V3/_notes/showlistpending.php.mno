@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_todolist" value="name:idToDoList;datatype:int,name:name;datatype:string,name:date;datatype:date,name:decription;datatype:blob,name:Status;datatype:string,name:category;datatype:blob,name:priority;datatype:blob,name:User_idUser;datatype:int" />
+	<infoitem key="UD_user" value="name:idUser;datatype:int,name:UserName;datatype:string,name:Password;datatype:string,name:EMail;datatype:string" />
+</info>
